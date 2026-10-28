@@ -1,0 +1,1 @@
+export default function FAQ100() { return ( <div className='prose mx-auto py-12'><h1>Do I own the copyright? - Question 100</h1><p>Detailed FAQ Answer for music-ai...</p></div> ); }

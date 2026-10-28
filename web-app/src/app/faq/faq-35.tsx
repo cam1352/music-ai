@@ -1,0 +1,1 @@
+export default function FAQ35() { return ( <div className='prose mx-auto py-12'><h1>How long does generation take? - Question 35</h1><p>Detailed FAQ Answer for music-ai...</p></div> ); }

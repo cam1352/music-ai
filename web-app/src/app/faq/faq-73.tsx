@@ -1,0 +1,1 @@
+export default function FAQ73() { return ( <div className='prose mx-auto py-12'><h1>What format are downloads? - Question 73</h1><p>Detailed FAQ Answer for music-ai...</p></div> ); }

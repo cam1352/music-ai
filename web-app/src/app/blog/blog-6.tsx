@@ -1,0 +1,1 @@
+export default function Blog6() { return ( <div className='prose mx-auto py-12'><h1>Virtual Artist Marketing Strategy Part 6</h1><p>SEO Optimized Content for music-ai...</p></div> ); }
